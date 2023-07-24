@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    position:sticky;
+}
+.nav-item a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    margin-right: 10px;
+    margin-left: 20px;
+    transition: all 0.10s;
+}
+.nav-item a:hover{
+    color: green;
+    font-weight: bold;
+}
+.container .navbar-brand{
+    color: blue;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.bi-bag{
+    font-size: 20px;
+    margin-left: 20px;
+}
+img{
+    width: 90%;
+    height: 10%;
+    background-size: cover;
+    margin-left: 50px;
+    margin-right: 20px; 
+}
+h2{
+    margin-left: 40px;
+}
+.card{
+    margin-left: 39px;
+}
+.card img{
+    padding: 0%;
+    margin: 0%;
+}
+
+.gallery{
+	padding: 80px 0px;
+}
+img{
+	max-width: 100%;
+}
+.gallery img{
+	background: #fff;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-popup .modal-img{
+	width: 100%;
+}
+h3{margin: 40px;
+}
+footer {
+	padding: 86px 0;
+}
+.single-content {
+	text-align: center;
+	padding: 115px 0;
+}
+.single-box p {
+	color:black;
+	line-height: 1.9;
+}
+.single-box h3 {
+	font-size: 16px;
+	font-weight: 700;
+	color:blackb;
+}
+.single-box .card-area i {
+	color: black;
+	font-size: 20px;
+	margin-right: 10px;
+}
+.single-box ul {
+	list-style: none;
+	padding: 0;
+}
+.single-box ul li a {
+	text-decoration: none;
+	color: black;
+	line-height: 2.5;
+	font-weight: 100;
+}
+.single-box h2 {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 700;
+}
+#basic-addon2 {
+	color: #fff;
+}
+
+
+
+
